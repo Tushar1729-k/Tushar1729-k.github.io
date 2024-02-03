@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: tushark1729-k.github.io
+source: tushark1729-k.github.io/jekyll
 incremental: false
 highlighter: rouge
 gist:
@@ -10,4 +10,4 @@ kramdown:
   syntax_highlighter: rouge
 domain: tushark1729-k.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://tushar1729-k.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: "/jekyll/"      # place folder name if the site is served in a subfolder
+# baseurl: "/jekyll/"      # place folder name if the site is served in a subfolder
